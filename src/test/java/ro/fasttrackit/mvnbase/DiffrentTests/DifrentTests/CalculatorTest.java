@@ -1,13 +1,13 @@
-package ro.fasttrackit.mvnbase;
+package ro.fasttrackit.mvnbase.DiffrentTests.DifrentTests;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import ro.fasttrackit.mvnbase.DifrentApps.Calculator;
 
 import static java.lang.Integer.MAX_VALUE;
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
 
 class CalculatorTest {
     private Calculator calculator;

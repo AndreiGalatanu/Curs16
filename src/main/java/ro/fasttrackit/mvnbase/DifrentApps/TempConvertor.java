@@ -1,4 +1,4 @@
-package ro.fasttrackit.mvnbase;
+package ro.fasttrackit.mvnbase.DifrentApps;
 
 public class TempConvertor {
 

@@ -1,7 +1,7 @@
-package ro.fasttrackit.mvnbase;
+package ro.fasttrackit.mvnbase.DiffrentTests.DifrentTests;
 
-import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.*;
+import ro.fasttrackit.mvnbase.DifrentApps.Palindrom;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.*;

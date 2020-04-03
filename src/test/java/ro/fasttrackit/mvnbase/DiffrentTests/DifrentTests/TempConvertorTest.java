@@ -1,9 +1,10 @@
-package ro.fasttrackit.mvnbase;
+package ro.fasttrackit.mvnbase.DiffrentTests.DifrentTests;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import ro.fasttrackit.mvnbase.DifrentApps.TempConvertor;
 
 public class TempConvertorTest {
 

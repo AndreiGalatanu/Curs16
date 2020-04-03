@@ -1,4 +1,4 @@
-package ro.fasttrackit.mvnbase;
+package ro.fasttrackit.mvnbase.DiffrentTests.DifrentTests;
 
 
 import org.junit.jupiter.api.Assertions;
